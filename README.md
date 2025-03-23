@@ -80,7 +80,3 @@ dotnet run
 ## 📌 License
 This project is open-source and available under the MIT License.
 ```
-
----
-
-🚀 **Now your project is well-documented and ready to use!**
