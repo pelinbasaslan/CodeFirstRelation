@@ -1,8 +1,4 @@
-Here is the **README.md** file for your project, explaining the **Code First Relation** setup using **Entity Framework Core** and **PostgreSQL**.  
 
----
-
-### 📌 **README.md**
 ```markdown
 # Code First Relation with Entity Framework Core
 
